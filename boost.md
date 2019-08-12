@@ -5,4 +5,7 @@ https://blog.csdn.net/li123128/article/details/79957338
 
 最详细的资料  
 Boost C++ 库     
-https://www.cnblogs.com/lidabo/p/9294874.html    
+https://www.cnblogs.com/lidabo/p/9294874.html   
+
+boost安装  
+https://www.cnblogs.com/cnxkey/articles/8887529.html  
